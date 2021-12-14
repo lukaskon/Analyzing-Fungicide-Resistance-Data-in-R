@@ -16,7 +16,7 @@ View(BotrytisFSAR)
 
 #read excel file as a data frame
 
-#Remember to change Year and CCR to character instead of numerical data
+#Remember to change Year and CCR to character instead of numerical data. Try to change others to characters if this is a problem later.
 
 BotrytisFSAR_framed <- data.frame(BotrytisFSAR)
 
